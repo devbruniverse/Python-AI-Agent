@@ -25,7 +25,7 @@ wheels = [
 ]
 
 [[package]]
-name = "bootdev-agent-ai"
+name = "bootdev-python-agent-ai"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
